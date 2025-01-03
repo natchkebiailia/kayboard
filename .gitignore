@@ -1,0 +1,30 @@
+# User-specific files
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+.idea/
+
+# Build generated files
+build/
+DerivedData/
+
+# Temporary files
+*.swp
+*~.nib
+*.log
+
+# Swift Package Manager
+/.build
+/.swiftpm
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Xcode specific
+.DS_Store
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
